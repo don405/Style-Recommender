@@ -1,0 +1,13 @@
+flask
+pandas
+scikit-learn
+joblib
+numpy
+opencv-python
+cvlib
+Pillow
+mlxtend
+Flask
+matplotlib
+numpy
+deepface
